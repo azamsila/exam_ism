@@ -1,0 +1,22 @@
+table, th ,td {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+table{
+    text-align: center;
+    width: 2000px;
+    
+}
+.green {
+    color: white ; background-color: green;
+}
+.red{
+    color: white; background-color: red;
+} 
+.blue{ 
+     background-color: blue; color: ;
+}
+.black{
+    color: white; background-color: black;
+}
